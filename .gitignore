@@ -1,0 +1,8 @@
+*.jar
+.settings
+bin
+ltp_data
+geodata.xml
+ltp_rmi.properties
+.svn
+log
